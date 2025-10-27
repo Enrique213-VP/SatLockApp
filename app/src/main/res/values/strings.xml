@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserSyncApp</string>
+    <string name="search_hint">Buscar usuario</string>
+    <string name="no_internet">No hay conexión a internet</string>
+    <string name="syncing">Sincronizando cambios…</string>
+    <string name="synced">Cambios sincronizados</string>
+    <string name="sync_error">Error al sincronizar</string>
+    <string name="offline_mode">Modo offline</string>
+    <string name="loading">Cargando…</string>
+    <string name="empty_state">No hay usuarios para mostrar</string>
+</resources>
